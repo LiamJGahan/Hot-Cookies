@@ -1,0 +1,1 @@
+citation: Tiff In Tech "CODE WITH ME: Build a Chrome Extension", used to plan the json manifest.

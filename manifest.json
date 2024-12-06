@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Hot Cookies",
+    "author": "Liam J Gahan",
+    "version": "1.0",
+    "description": "A browser game for deleting your cookies in a fun way.",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "Hot Cookies"
+    },
+    "permissions": [
+        "cookies",
+        "activeTab"
+    ]
+  }
