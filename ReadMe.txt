@@ -4,7 +4,8 @@ citations:
 Reading Material:
 -https://developer.chrome.com/docs/extensions/reference/manifest 
 -https://developer.chrome.com/docs/extensions/reference/permissions-list
+-https://developer.chrome.com/docs/extensions/reference/manifest/icons
 
 HTML
 Reading Material:
-- https://developer.chrome.com/docs/extensions/reference/api/action
+-https://developer.chrome.com/docs/extensions/reference/api/action
